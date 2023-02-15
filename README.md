@@ -1,1 +1,1 @@
-Reproduction for https://github.com/vuejs/eslint-plugin-vue/issues/2089.
+# Reproduction for https://github.com/vuejs/eslint-plugin-vue/issues/2089
